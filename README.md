@@ -1,5 +1,10 @@
 # Comandos basicos para git
 
+* [x] Configuración local en git
+* [x] Crear un repositorio
+* [x] Conectar el repositorio con Github
+* [x] Otros
+---
 # Configuración en git (local)
 
 1. Ver configuración general 
@@ -55,7 +60,7 @@ git log
 ```
 * Crear una llave ssh 
 ```bash
-ssh-keygen -t rsa -b 4096 -C "and@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "name@gmail.com"
 ```
 * Ver los repositorios asociados
 ```bash
@@ -63,6 +68,6 @@ git remote -v
 ```
 * Cambiar dirección del repositorio (ssh)
 ```bash
-git remote set-url origin git@github.com:aplatag/example-page-js.git
+git remote set-url origin git@github.com:aaaa/example-page-js.git
 ```
 
