@@ -1,4 +1,4 @@
-# Comandos basicos para git
+# Comandos básicos para Git
 
 * [x] Configuración local en git
 * [x] Crear un repositorio
